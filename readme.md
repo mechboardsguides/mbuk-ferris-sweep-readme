@@ -2,6 +2,8 @@ The MBUK Ferris Sweep PCBs do not have a pinout that matches the standard sweep 
 
 This is frustrating. It will be remedied in future releases of the PCB.
 
+The pre-built PCBs should come flashed with a VIA keymap- you should be able to open https://usevia.app/ and see your keyboard connected, its keymap, and then be able to remap keys there.
+
 For now, the firmware source can be found here: 
 
 https://github.com/keyboard-magpie/qmk_firmware/tree/mbuk-ferris/keyboards/ferris/sweep_choc_mbuk for the Choc Only PCB
