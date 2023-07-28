@@ -1,5 +1,12 @@
 The MBUK Ferris Sweep PCBs do not have a pinout that matches the standard sweep in QMK master.
 
+Additionally, the controller labelling on the PCB is confusing.
+
+This is how the controllers should be oriented:
+
+![image](https://github.com/mechboardsguides/mbuk-ferris-readme/assets/19674258/86000e5b-b801-4511-9232-9e7fd0ad9052)
+
+
 This is frustrating. It will be remedied in future releases of the PCB.
 
 The pre-built PCBs should come flashed with a VIA keymap- you should be able to open https://usevia.app/ and see your keyboard connected, its keymap, and then be able to remap keys there.
