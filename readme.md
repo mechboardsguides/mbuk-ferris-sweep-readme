@@ -2,7 +2,7 @@ The MBUK Ferris Sweep PCBs do not have a pinout that matches the standard sweep 
 
 Additionally, the controller labelling on the PCB is confusing.
 
-This is how the controllers should be oriented:
+This is how the controllers should be oriented (choc version at the top- chips up, mx/choc version at the bottom- chips down).
 
 ![image](https://github.com/mechboardsguides/mbuk-ferris-readme/assets/19674258/86000e5b-b801-4511-9232-9e7fd0ad9052)
 
