@@ -18,6 +18,8 @@ https://github.com/keyboard-magpie/qmk_firmware/tree/mbuk-ferris/keyboards/ferri
 
 To compile your own firmware for these PCBs, you should follow https://docs.qmk.fm/#/newbs_getting_started?id=set-up-qmk and when it comes to cloning your repository use `qmk setup keyboard-magpie/qmk_firmware` then you will need to check out the `mbuk-ferris` branch (you can type `qmk cd` then `git checkout mbuk-ferris` after setup has completed.
 
+Someone has kindly provided a ZMK source here for one of the PCBs- i have not tested nor clarified which PCB this is for: https://github.com/flunderpero/ferris-zmk/tree/main/config/boards/shields/perosweep1
+
 Sorry. This isn't an optimal experience.
 
 If you run into issues, reach out on discord (https://discord.gg/mbuk)
