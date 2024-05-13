@@ -1,4 +1,4 @@
-Update Spring 2024- all mechboards ferris kits are now able to use standard Sweep firmware. If your sweep PCB has a QR code on it, you can disregard the below.
+# Update Spring 2024- all mechboards ferris kits are now able to use standard Sweep firmware. If your sweep PCB has a QR code on it, you can disregard the below.
 
 The MBUK Ferris Sweep PCBs do not have a pinout that matches the standard sweep in QMK master.
 
